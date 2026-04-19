@@ -12,6 +12,9 @@ CREATE TABLE Users (
     Role NVARCHAR(20)
 );
 
+INSERT INTO Users (FullName, Email, Password, Role)
+VALUES (N'Nguyen Van A', 'a@gmail.com', '123', 'Customer');
+
 CREATE TABLE Products (
     ProductID INT PRIMARY KEY IDENTITY(1,1),
     ProductName NVARCHAR(100),
