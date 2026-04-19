@@ -44,3 +44,4 @@ VALUES
 (N'Thức ăn cho chó Pedigree', 120000, 15, N'Thức ăn dinh dưỡng cho chó trưởng thành', '~/images/products/pedigree.jpg', N'Thức ăn'),
 (N'Sữa tắm cho mèo', 85000, 20, N'Sữa tắm giúp lông mèo mềm mượt', '~/images/products/cat-shampoo.jpg', N'Spa'),
 (N'Pate cho mèo Whiskas', 25000, 30, N'Pate vị cá ngừ dành cho mèo', '~/images/products/whiskas-pate.jpg', N'Thức ăn');
+
